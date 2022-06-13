@@ -1,0 +1,485 @@
+,Name,Vintage,Legacy,Modern,Pioneer,Commander,Premodern,Pauper,Count,Total
+19,"Boseiju, Who Endures",81.0,86.0,100.0,94.0,81.0,,,5,442.0
+24,Flooded Strand,76.0,91.0,85.0,,76.0,78.0,,5,406.0
+53,Lightning Bolt,47.0,80.0,96.0,,,80.0,96.0,5,399.0
+95,Snow-Covered Island,5.0,78.0,43.0,,2.0,,71.0,5,199.0
+129,Bloodstained Mire,,37.0,71.0,,62.0,38.0,,4,208.0
+178,Counterspell,,,52.0,,92.0,92.0,89.0,4,325.0
+64,Expressive Iteration,36.0,75.0,80.0,83.0,,,,4,274.0
+55,Fatal Push,45.0,6.0,67.0,96.0,,,,4,214.0
+14,Misty Rainforest,86.0,95.0,91.0,,75.0,,,4,347.0
+108,"Otawara, Soaring City",,62.0,99.0,100.0,82.0,,,4,343.0
+22,Polluted Delta,78.0,93.0,63.0,,79.0,,,4,313.0
+39,Preordain,61.0,59.0,,,32.0,,88.0,4,240.0
+31,Pyroblast,69.0,96.0,,,,86.0,80.0,4,331.0
+20,Scalding Tarn,80.0,89.0,92.0,,66.0,,,4,327.0
+51,Swords to Plowshares,49.0,87.0,,,94.0,98.0,,4,328.0
+93,Tormod's Crypt,7.0,14.0,9.0,,,100.0,,4,130.0
+68,Unlicensed Hearse,32.0,29.0,38.0,97.0,,,,4,196.0
+0,Urza's Saga,100.0,82.0,89.0,,27.0,,,4,298.0
+87,Verdant Catacombs,13.0,71.0,47.0,,63.0,,,4,194.0
+116,Windswept Heath,,53.0,69.0,,68.0,46.0,,4,236.0
+115,Wooded Foothills,,54.0,87.0,,58.0,84.0,,4,283.0
+66,Ancient Tomb,34.0,69.0,,,70.0,,,3,173.0
+172,Blood Crypt,,,59.0,34.0,45.0,,,3,138.0
+118,Bojuka Bog,,49.0,,,83.0,,79.0,3,211.0
+165,Breeding Pool,,,78.0,50.0,53.0,,,3,181.0
+134,Dark Ritual,,31.0,,,40.0,59.0,,3,130.0
+78,Dress Down,22.0,36.0,76.0,,,,,3,134.0
+246,Duress,,,,36.0,,97.0,97.0,3,230.0
+200,"Eiganjo, Seat of the Empire",,,16.0,89.0,38.0,,,3,143.0
+37,Endurance,63.0,92.0,97.0,,,,,3,252.0
+1,Flusterstorm,99.0,84.0,12.0,,,,,3,195.0
+13,Force of Negation,87.0,97.0,72.0,,,,,3,256.0
+27,Force of Vigor,73.0,64.0,62.0,,,,,3,199.0
+6,Force of Will,94.0,100.0,,,7.0,,,3,201.0
+34,Grafdigger's Cage,66.0,68.0,,64.0,,,,3,198.0
+168,Hallowed Fountain,,,70.0,79.0,56.0,,,3,205.0
+139,Hydroblast,,25.0,,,,88.0,72.0,3,185.0
+228,Llanowar Elves,,,,62.0,78.0,40.0,,3,180.0
+103,Lotus Petal,,76.0,,,12.0,24.0,,3,112.0
+97,Murktide Regent,3.0,79.0,28.0,,,,,3,110.0
+21,"Narset, Parter of Veils",79.0,51.0,,76.0,,,,3,206.0
+238,Negate,,,,45.0,64.0,,26.0,3,135.0
+62,Null Rod,38.0,3.0,,,,22.0,,3,63.0
+195,Overgrown Tomb,,,24.0,46.0,54.0,,,3,124.0
+8,Pithing Needle,92.0,72.0,66.0,,,,,3,230.0
+42,Prismatic Ending,58.0,88.0,98.0,,,,,3,244.0
+35,"Ragavan, Nimble Pilferer",65.0,45.0,95.0,,,,,3,205.0
+100,Red Elemental Blast,,85.0,,,,75.0,93.0,3,253.0
+69,Relic of Progenitus,31.0,,79.0,,,,92.0,3,202.0
+152,Rest in Peace,,10.0,30.0,72.0,,,,3,112.0
+170,Sacred Foundry,,,64.0,58.0,36.0,,,3,158.0
+135,Skyclave Apparition,,30.0,19.0,61.0,,,,3,110.0
+30,Soul-Guide Lantern,70.0,,45.0,47.0,,,,3,162.0
+138,Spell Pierce,,26.0,55.0,,,,3.0,3,84.0
+160,Steam Vents,,,94.0,75.0,51.0,,,3,220.0
+163,Stomping Ground,,,83.0,70.0,37.0,,,3,190.0
+102,Sylvan Library,,77.0,,,4.0,52.0,,3,133.0
+171,Temple Garden,,,61.0,69.0,42.0,,,3,172.0
+101,Thoughtseize,,81.0,84.0,93.0,,,,3,258.0
+17,Wasteland,83.0,98.0,,,,95.0,,3,276.0
+199,Watery Grave,,,18.0,44.0,74.0,,,3,136.0
+120,Abrade,,47.0,,,,,76.0,2,123.0
+185,Aether Gust,,,40.0,84.0,,,,2,124.0
+84,Alpine Moon,16.0,,26.0,,,,,2,42.0
+176,Arid Mesa,,,54.0,,59.0,,,2,113.0
+294,Birds of Paradise,,,,,48.0,66.0,,2,114.0
+141,Blood Moon,,22.0,60.0,,,,,2,82.0
+337,Blue Elemental Blast,,,,,,73.0,91.0,2,164.0
+109,Brazen Borrower,,61.0,10.0,,,,,2,71.0
+128,Cavern of Souls,,38.0,51.0,,,,,2,89.0
+158,Chain Lightning,,2.0,,,,,22.0,2,24.0
+308,City of Brass,,,,,21.0,93.0,,2,114.0
+47,Collector Ouphe,53.0,50.0,,,,,,2,103.0
+179,Consider,,,50.0,90.0,,,,2,140.0
+201,Damping Sphere,,,15.0,60.0,,,,2,75.0
+26,Dig Through Time,74.0,,,20.0,,,,2,94.0
+106,Dragon's Rage Channeler,,65.0,82.0,,,,,2,147.0
+267,Drowned Catacomb,,,,5.0,10.0,,,2,15.0
+155,Engineered Explosives,,7.0,88.0,,,,,2,95.0
+301,Enlightened Tutor,,,,,30.0,74.0,,2,104.0
+184,Esper Sentinel,,,42.0,,72.0,,,2,114.0
+274,Evolving Wilds,,,,,97.0,,75.0,2,172.0
+215,Fabled Passage,,,,87.0,89.0,,,2,176.0
+226,Farewell,,,,65.0,11.0,,,2,76.0
+91,Fury,9.0,,93.0,,,,,2,102.0
+140,"Jace, the Mind Sculptor",,23.0,27.0,,,,,2,50.0
+147,Kaldra Compleat,,16.0,2.0,,,,,2,18.0
+74,Karakas,26.0,94.0,,,,,,2,120.0
+190,Ketria Triome,,,33.0,33.0,,,,2,66.0
+183,Kolaghan's Command,,,44.0,9.0,,,,2,53.0
+181,Ledger Shredder,,,48.0,71.0,,,,2,119.0
+32,Leyline of the Void,68.0,67.0,,,,,,2,135.0
+173,Lurrus of the Dream-Den,,,58.0,55.0,,,,2,113.0
+230,Mana Confluence,,,,57.0,39.0,,,2,96.0
+25,Mana Crypt,75.0,,,,73.0,,,2,148.0
+161,March of Otherworldly Light,,,90.0,85.0,,,,2,175.0
+197,Memory Deluge,,,21.0,27.0,,,,2,48.0
+136,Mishra's Bauble,,28.0,68.0,,,,,2,96.0
+203,Monastery Swiftspear,,,13.0,16.0,,,,2,29.0
+99,Mystic Sanctuary,1.0,,,,26.0,,,2,27.0
+166,Mystical Dispute,,,77.0,98.0,,,,2,175.0
+49,Mystical Tutor,51.0,,,,35.0,,,2,86.0
+186,Nihil Spellbomb,,,39.0,,,,58.0,2,97.0
+60,"Oko, Thief of Crowns",40.0,24.0,,,,,,2,64.0
+189,"Omnath, Locus of Creation",,,34.0,8.0,,,,2,42.0
+167,Path to Exile,,,75.0,,84.0,,,2,159.0
+113,Prismatic Vista,,56.0,,,43.0,,,2,99.0
+399,Quirion Ranger,,,,,,3.0,19.0,2,22.0
+182,Raugrin Triome,,,46.0,30.0,,,,2,76.0
+157,Snapcaster Mage,,4.0,5.0,,,,,2,9.0
+110,Snow-Covered Forest,,60.0,35.0,,,,,2,95.0
+121,Snow-Covered Plains,,46.0,23.0,,,,,2,69.0
+175,"Sokenzan, Crucible of Defiance",,,56.0,99.0,,,,2,155.0
+29,Sol Ring,71.0,,,,100.0,,,2,171.0
+159,Stoneforge Mystic,,1.0,17.0,,,,,2,18.0
+196,Supreme Verdict,,,22.0,29.0,,,,2,51.0
+72,Surgical Extraction,28.0,99.0,,,,,,2,127.0
+213,"Takenuma, Abandoned Mire",,,,91.0,41.0,,,2,132.0
+126,"Teferi, Time Raveler",,40.0,73.0,,,,,2,113.0
+202,The Wandering Emperor,,,14.0,82.0,,,,2,96.0
+45,Treasure Cruise,55.0,,,6.0,,,,2,61.0
+58,Tropical Island,42.0,83.0,,,,,,2,125.0
+65,Tundra,35.0,66.0,,,,,,2,101.0
+28,Underground Sea,72.0,73.0,,,,,,2,145.0
+243,"Urborg, Tomb of Yawgmoth",,,,39.0,55.0,,,2,94.0
+41,Vampiric Tutor,59.0,,,,49.0,,,2,108.0
+105,Veil of Summer,,70.0,74.0,,,,,2,144.0
+46,Volcanic Island,54.0,90.0,,,,,,2,144.0
+143,Walking Ballista,,20.0,41.0,,,,,2,61.0
+132,"Yavimaya, Cradle of Growth",,33.0,,,50.0,,,2,83.0
+356,Adarkar Wastes,,,,,,51.0,,1,51.0
+154,Aether Vial,,8.0,,,,,,1,8.0
+381,Anarchy,,,,,,21.0,,1,21.0
+9,Ancestral Recall,91.0,,,,,,,1,91.0
+470,Ancient Den,,,,,,,15.0,1,15.0
+434,Ancient Grudge,,,,,,,54.0,1,54.0
+221,Anger of the Gods,,,,74.0,,,,1,74.0
+329,Annul,,,,,,87.0,,1,87.0
+300,Arcane Denial,,,,,31.0,,,1,31.0
+273,Arcane Signet,,,,,98.0,,,1,98.0
+96,Archive Trap,4.0,,,,,,,1,4.0
+188,Archmage's Charm,,,36.0,,,,,1,36.0
+269,Archon of Emeria,,,,3.0,,,,1,3.0
+403,Ash Barrens,,,,,,,99.0,1,99.0
+204,"Ashiok, Dream Render",,,11.0,,,,,1,11.0
+88,Assassin's Trophy,12.0,,,,,,,1,12.0
+461,Atog,,,,,,,27.0,1,27.0
+420,Augur of Bolas,,,,,,,69.0,1,69.0
+360,Aura of Silence,,,,,,47.0,,1,47.0
+316,Azorius Signet,,,,,13.0,,,1,13.0
+156,Badlands,,5.0,,,,,,1,5.0
+305,Bala Ged Recovery,,,,,24.0,,,1,24.0
+107,Bayou,,63.0,,,,,,1,63.0
+67,Bazaar of Baghdad,33.0,,,,,,,1,33.0
+281,Beast Within,,,,,87.0,,,1,87.0
+465,Behold the Multiverse,,,,,,,21.0,1,21.0
+2,Black Lotus,98.0,,,,,,,1,98.0
+386,Black Vise,,,,,,16.0,,1,16.0
+208,Blast Zone,,,4.0,,,,,1,4.0
+233,Blightstep Pathway,,,,53.0,,,,1,53.0
+417,Blood Fountain,,,,,,,74.0,1,74.0
+260,Bloodchief's Thirst,,,,15.0,,,,1,15.0
+250,Bloodtithe Harvester,,,,28.0,,,,1,28.0
+44,Bolas's Citadel,56.0,,,,,,,1,56.0
+248,Bonecrusher Giant,,,,32.0,,,,1,32.0
+476,Boros Garrison,,,,,,,9.0,1,9.0
+320,Boros Signet,,,,,5.0,,,1,5.0
+232,Branchloft Pathway,,,,54.0,,,,1,54.0
+237,Brutal Cathar,,,,48.0,,,,1,48.0
+328,Cabal Therapy,,,,,,89.0,,1,89.0
+358,Caller of the Claw,,,,,,49.0,,1,49.0
+394,Careful Study,,,,,,8.0,,1,8.0
+114,Carpet of Flowers,,55.0,,,,,,1,55.0
+482,Cartouche of Solidarity,,,,,,,2.0,1,2.0
+405,Cast Down,,,,,,,95.0,1,95.0
+235,Castle Locthwain,,,,51.0,,,,1,51.0
+261,Castle Vantress,,,,14.0,,,,1,14.0
+483,Cave of Temptation,,,,,,,1.0,1,1.0
+379,Chain of Vapor,,,,,,25.0,,1,25.0
+406,Chainer's Edict,,,,,,,94.0,1,94.0
+259,"Chandra, Torch of Defiance",,,,17.0,,,,1,17.0
+347,Chill,,,,,,62.0,,1,62.0
+296,Chromatic Lantern,,,,,46.0,,,1,46.0
+422,Chromatic Star,,,,,,,67.0,1,67.0
+310,Chrome Mox,,,,,19.0,,,1,19.0
+330,Circle of Protection: Red,,,,,,85.0,,1,85.0
+122,City of Traitors,,44.0,,,,,,1,44.0
+448,Cleansing Wildfire,,,,,,,40.0,1,40.0
+387,Coastal Tower,,,,,,15.0,,1,15.0
+272,Command Tower,,,,,99.0,,,1,99.0
+236,Cragcrown Pathway,,,,49.0,,,,1,49.0
+131,Crop Rotation,,34.0,,,,,,1,34.0
+90,Crucible of Worlds,10.0,,,,,,,1,10.0
+432,Crypt Rats,,,,,,,56.0,1,56.0
+276,Cultivate,,,,,95.0,,,1,95.0
+468,Curse of the Pierced Heart,,,,,,,17.0,1,17.0
+359,Cursed Scroll,,,,,,48.0,,1,48.0
+376,Cursed Totem,,,,,,28.0,,1,28.0
+59,Dack Fayden,41.0,,,,,,,1,41.0
+460,Dawnbringer Cleric,,,,,,,28.0,1,28.0
+409,Deadly Dispute,,,,,,,86.0,1,86.0
+146,Deafening Silence,,17.0,,,,,,1,17.0
+61,Deathrite Shaman,39.0,,,,,,,1,39.0
+377,Defense Grid,,,,,,27.0,,1,27.0
+111,Delver of Secrets,,58.0,,,,,,1,58.0
+214,Den of the Bugbear,,,,88.0,,,,1,88.0
+344,Deranged Hermit,,,,,,65.0,,1,65.0
+253,Deserted Beach,,,,24.0,,,,1,24.0
+302,Dimir Signet,,,,,29.0,,,1,29.0
+326,Disenchant,,,,,,91.0,,1,91.0
+193,Dismember,,,29.0,,,,,1,29.0
+402,Dispel,,,,,,,100.0,1,100.0
+309,Dockside Extortionist,,,,,20.0,,,1,20.0
+225,Dovin's Veto,,,,66.0,,,,1,66.0
+254,Dreadbore,,,,23.0,,,,1,23.0
+414,Drossforge Bridge,,,,,,,81.0,1,81.0
+124,Dryad Arbor,,42.0,,,,,,1,42.0
+331,Dust Bowl,,,,,,83.0,,1,83.0
+437,Dust to Dust,,,,,,,51.0,1,51.0
+440,Echoing Decay,,,,,,,48.0,1,48.0
+413,Echoing Truth,,,,,,,82.0,1,82.0
+258,Elite Spellbinder,,,,18.0,,,,1,18.0
+117,End the Festivities,,52.0,,,,,,1,52.0
+63,Energy Flux,37.0,,,,,,,1,37.0
+324,Engineered Plague,,,,,,96.0,,1,96.0
+133,Ensnaring Bridge,,32.0,,,,,,1,32.0
+453,Ephemerate,,,,,,,35.0,1,35.0
+290,Eternal Witness,,,,,61.0,,,1,61.0
+142,Ethersworn Canonist,,21.0,,,,,,1,21.0
+353,Exalted Angel,,,,,,55.0,,1,55.0
+275,Exotic Orchard,,,,,96.0,,,1,96.0
+411,Experimental Synthesizer,,,,,,,84.0,1,84.0
+212,Fable of the Mirror-Breaker,,,,92.0,,,,1,92.0
+334,Fact or Fiction,,,,,,79.0,,1,79.0
+369,Faerie Conclave,,,,,,35.0,,1,35.0
+425,Faerie Seer,,,,,,,64.0,1,64.0
+283,Farseek,,,,,85.0,,,1,85.0
+262,Fateful Absence,,,,13.0,,,,1,13.0
+295,Feed the Swarm,,,,,47.0,,,1,47.0
+285,Fellwar Stone,,,,,77.0,,,1,77.0
+210,Field of Ruin,,,1.0,,,,,1,1.0
+404,Fiery Cannonade,,,,,,,98.0,1,98.0
+191,Fiery Islet,,,32.0,,,,,1,32.0
+219,Flame-Blessed Bolt,,,,78.0,,,,1,78.0
+439,Flaring Pain,,,,,,,49.0,1,49.0
+455,Fling,,,,,,,33.0,1,33.0
+445,Forgotten Cave,,,,,,,43.0,1,43.0
+207,Foundation Breaker,,,6.0,,,,,1,6.0
+475,Frogmite,,,,,,,10.0,1,10.0
+304,Fyndhorn Elves,,,,,25.0,,,1,25.0
+370,Gaea's Blessing,,,,,,34.0,,1,34.0
+383,Gaea's Cradle,,,,,,19.0,,1,19.0
+251,Galvanic Iteration,,,,26.0,,,,1,26.0
+349,Gemstone Mine,,,,,,60.0,,1,60.0
+303,Generous Gift,,,,,28.0,,,1,28.0
+345,Genesis,,,,,,64.0,,1,64.0
+12,Gitaxian Probe,88.0,,,,,,,1,88.0
+223,Glacial Fortress,,,,68.0,,,,1,68.0
+216,Go Blank,,,,86.0,,,,1,86.0
+378,Goblin King,,,,,,26.0,,1,26.0
+392,Goblin Lackey,,,,,,10.0,,1,10.0
+391,Goblin Piledriver,,,,,,11.0,,1,11.0
+389,Goblin Ringleader,,,,,,13.0,,1,13.0
+342,Goblin Sharpshooter,,,,,,68.0,,1,68.0
+390,Goblin Warchief,,,,,,12.0,,1,12.0
+293,Godless Shrine,,,,,52.0,,,1,52.0
+408,Gorilla Shaman,,,,,,,87.0,1,87.0
+244,Graveyard Trespasser,,,,38.0,,,,1,38.0
+127,Green Sun's Zenith,,39.0,,,,,,1,39.0
+76,Grief,24.0,,,,,,,1,24.0
+371,Grim Lavamancer,,,,,,33.0,,1,33.0
+153,"Grist, the Hunger Tide",,9.0,,,,,,1,9.0
+318,Growth Spiral,,,,,8.0,,,1,8.0
+472,Guardian of the Guildpact,,,,,,,13.0,1,13.0
+424,Gurmag Angler,,,,,,,65.0,1,65.0
+430,Gut Shot,,,,,,,59.0,1,59.0
+217,Hall of Storm Giants,,,,81.0,,,,1,81.0
+242,Haunted Ridge,,,,40.0,,,,1,40.0
+255,Heartless Act,,,,22.0,,,,1,22.0
+252,Hengegate Pathway,,,,25.0,,,,1,25.0
+289,Heroic Intervention,,,,,65.0,,,1,65.0
+220,Hive of the Eye Tyrant,,,,77.0,,,,1,77.0
+70,Hollow One,30.0,,,,,,,1,30.0
+227,Hullbreaker Horror,,,,63.0,,,,1,63.0
+355,Humility,,,,,,53.0,,1,53.0
+33,Hurkyl's Recall,67.0,,,,,,,1,67.0
+400,Hypnotic Specter,,,,,,2.0,,1,2.0
+452,Ice Tunnel,,,,,,,36.0,1,36.0
+145,Ice-Fang Coatl,,18.0,,,,,,1,18.0
+333,Impulse,,,,,,81.0,,1,81.0
+177,Inquisition of Kozilek,,,53.0,,,,,1,53.0
+307,Izzet Signet,,,,,22.0,,,1,22.0
+418,Journey to Nowhere,,,,,,,73.0,1,73.0
+241,"Kalitas, Traitor of Ghet",,,,41.0,,,,1,41.0
+137,Kappa Cannoneer,,27.0,,,,,,1,27.0
+54,"Karn, the Great Creator",46.0,,,,,,,1,46.0
+367,Karplusan Forest,,,,,,37.0,,1,37.0
+282,Kodama's Reach,,,,,86.0,,,1,86.0
+462,Kor Skyfisher,,,,,,,25.0,1,25.0
+416,Krark-Clan Shaman,,,,,,,77.0,1,77.0
+209,"Kroxa, Titan of Death's Hunger",,,3.0,,,,,1,3.0
+249,Kumano Faces Kakkazan,,,,31.0,,,,1,31.0
+231,Lair of the Hydra,,,,56.0,,,,1,56.0
+477,Lava Spike,,,,,,,8.0,1,8.0
+89,"Lavinia, Azorius Renegade",11.0,,,,,,,1,11.0
+457,Leave No Trace,,,,,,,31.0,1,31.0
+277,Lightning Greaves,,,,,93.0,,,1,93.0
+149,Lion Sash,,13.0,,,,,,1,13.0
+119,Lion's Eye Diamond,,48.0,,,,,,1,48.0
+338,Llanowar Wastes,,,,,,72.0,,1,72.0
+80,Lodestone Golem,20.0,,,,,,,1,20.0
+449,Lone Missionary,,,,,,,39.0,1,39.0
+450,Makeshift Munitions,,,,,,,38.0,1,38.0
+319,Mana Drain,,,,,6.0,,,1,6.0
+335,Mana Leak,,,,,,77.0,,1,77.0
+56,Mana Vault,44.0,,,,,,,1,44.0
+50,Manifold Key,50.0,,,,,,,1,50.0
+291,Marsh Flats,,,,,60.0,,,1,60.0
+343,Masticore,,,,,,67.0,,1,67.0
+375,Meddling Mage,,,,,,29.0,,1,29.0
+123,Meltdown,,43.0,,,,,,1,43.0
+3,Mental Misstep,97.0,,,,,,,1,97.0
+38,Merchant Scroll,62.0,,,,,,,1,62.0
+23,Mindbreak Trap,77.0,,,,,,,1,77.0
+327,Mishra's Factory,,,,,,90.0,,1,90.0
+73,Mishra's Workshop,27.0,,,,,,,1,27.0
+429,Mistvault Bridge,,,,,,,60.0,1,60.0
+481,Moment's Peace,,,,,,,4.0,1,4.0
+92,Monastery Mentor,8.0,,,,,,,1,8.0
+444,Moon-Circuit Hacker,,,,,,,44.0,1,44.0
+382,Mox Diamond,,,,,,20.0,,1,20.0
+7,Mox Emerald,93.0,,,,,,,1,93.0
+5,Mox Jet,95.0,,,,,,,1,95.0
+16,Mox Pearl,84.0,,,,,,,1,84.0
+11,Mox Ruby,89.0,,,,,,,1,89.0
+4,Mox Sapphire,96.0,,,,,,,1,96.0
+256,Mutavault,,,,21.0,,,,1,21.0
+85,Mycosynth Lattice,15.0,,,,,,,1,15.0
+435,Myr Enforcer,,,,,,,53.0,1,53.0
+86,Mystic Forge,14.0,,,,,,,1,14.0
+306,Mystic Remora,,,,,23.0,,,1,23.0
+323,Naturalize,,,,,,99.0,,1,99.0
+478,Needle Drop,,,,,,,7.0,1,7.0
+94,Nettlecyst,6.0,,,,,,,1,6.0
+426,Ninja of the Deep Hours,,,,,,,63.0,1,63.0
+77,Noxious Revival,23.0,,,,,,,1,23.0
+459,Okiba-Gang Shinobi,,,,,,,29.0,1,29.0
+270,Oni-Cult Anvil,,,,2.0,,,,1,2.0
+234,Opt,,,,52.0,,,,1,52.0
+312,Orzhov Signet,,,,,17.0,,,1,17.0
+469,Palace Sentinels,,,,,,,16.0,1,16.0
+380,Perish,,,,,,23.0,,1,23.0
+352,Pernicious Deed,,,,,,56.0,,1,56.0
+395,Phyrexian Arena,,,,,,7.0,,1,7.0
+357,Phyrexian Furnace,,,,,,50.0,,1,50.0
+81,Phyrexian Revoker,19.0,,,,,,,1,19.0
+104,Plague Engineer,,74.0,,,,,,1,74.0
+218,Play with Fire,,,,80.0,,,,1,80.0
+211,Portable Hole,,,,95.0,,,,1,95.0
+332,Powder Keg,,,,,,82.0,,1,82.0
+398,Price of Progress,,,,,,4.0,,1,4.0
+438,Prismatic Strands,,,,,,,50.0,1,50.0
+423,Prophetic Prism,,,,,,,66.0,1,66.0
+239,Prosperous Innkeeper,,,,43.0,,,,1,43.0
+443,Pulse of Murasa,,,,,,,45.0,1,45.0
+351,Pyroclasm,,,,,,57.0,,1,57.0
+363,Pyrokinesis,,,,,,43.0,,1,43.0
+311,Rakdos Signet,,,,,18.0,,,1,18.0
+474,Rancor,,,,,,,11.0,1,11.0
+339,Ravenous Baloth,,,,,,71.0,,1,71.0
+57,Ravenous Trap,43.0,,,,,,,1,43.0
+374,Ray of Revelation,,,,,,30.0,,1,30.0
+421,Reaping the Graves,,,,,,,68.0,1,68.0
+427,Reckoner's Bargain,,,,,,,62.0,1,62.0
+393,Recurring Nightmare,,,,,,9.0,,1,9.0
+268,Rending Volley,,,,4.0,,,,1,4.0
+321,Return of the Wildspeaker,,,,,3.0,,,1,3.0
+284,Rhystic Study,,,,,80.0,,,1,80.0
+479,Rift Bolt,,,,,,,6.0,1,6.0
+373,Rishadan Port,,,,,,31.0,,1,31.0
+240,Riverglide Pathway,,,,42.0,,,,1,42.0
+280,Rogue's Passage,,,,,88.0,,,1,88.0
+247,Roiling Vortex,,,,35.0,,,,1,35.0
+456,Rustvale Bridge,,,,,,,32.0,1,32.0
+287,Sakura-Tribe Elder,,,,,69.0,,,1,69.0
+169,Sanctifier en-Vec,,,65.0,,,,,1,65.0
+125,Savannah,,41.0,,,,,,1,41.0
+315,Scute Swarm,,,,,14.0,,,1,14.0
+325,Seal of Cleansing,,,,,,94.0,,1,94.0
+464,Searing Blaze,,,,,,,23.0,1,23.0
+433,Seat of the Synod,,,,,,,55.0,1,55.0
+471,Secluded Steppe,,,,,,,14.0,1,14.0
+43,Sensei's Divining Top,57.0,,,,,,,1,57.0
+98,Serum Powder,2.0,,,,,,,1,2.0
+264,Shadows' Verdict,,,,11.0,,,,1,11.0
+198,Shadowspear,,,20.0,,,,,1,20.0
+229,Shark Typhoon,,,,59.0,,,,1,59.0
+436,Shenanigans,,,,,,,52.0,1,52.0
+385,Siege-Gang Commander,,,,,,17.0,,1,17.0
+463,Sign in Blood,,,,,,,24.0,1,24.0
+415,Silverbluff Bridge,,,,,,,78.0,1,78.0
+473,Skewer the Critics,,,,,,,12.0,1,12.0
+451,Smash to Smithereens,,,,,,,37.0,1,37.0
+346,Smother,,,,,,63.0,,1,63.0
+292,Smothering Tithe,,,,,57.0,,,1,57.0
+442,Snow-Covered Mountain,,,,,,,46.0,1,46.0
+148,Snow-Covered Swamp,,15.0,,,,,,1,15.0
+164,Solitude,,,81.0,,,,,1,81.0
+245,Sorin the Mirthless,,,,37.0,,,,1,37.0
+257,Soul-Scar Mage,,,,19.0,,,,1,19.0
+419,Spellstutter Sprite,,,,,,,70.0,1,70.0
+79,Sphere of Resistance,21.0,,,,,,,1,21.0
+52,Sphinx of the Steel Wind,48.0,,,,,,,1,48.0
+368,Spike Feeder,,,,,,36.0,,1,36.0
+192,Spirebluff Canal,,,31.0,,,,,1,31.0
+354,"Squee, Goblin Nabob",,,,,,54.0,,1,54.0
+458,Standard Bearer,,,,,,,30.0,1,30.0
+366,Standstill,,,,,,39.0,,1,39.0
+365,Stifle,,,,,,41.0,,1,41.0
+454,Stonehorn Dignitary,,,,,,,34.0,1,34.0
+431,Stormbound Geist,,,,,,,57.0,1,57.0
+224,Stormcarved Coast,,,,67.0,,,,1,67.0
+222,Strangle,,,,73.0,,,,1,73.0
+15,Strip Mine,85.0,,,,,,,1,85.0
+130,Submerge,,35.0,,,,,,1,35.0
+180,Subtlety,,,49.0,,,,,1,49.0
+407,Suffocating Fumes,,,,,,,90.0,1,90.0
+362,Sulfuric Vortex,,,,,,44.0,,1,44.0
+314,Sun Titan,,,,,15.0,,,1,15.0
+206,Sunbaked Canyon,,,7.0,,,,,1,7.0
+364,Survival of the Fittest,,,,,,42.0,,1,42.0
+298,Swan Song,,,,,34.0,,,1,34.0
+278,Swiftfoot Boots,,,,,91.0,,,1,91.0
+266,Sylvan Caryatid,,,,7.0,,,,1,7.0
+151,Taiga,,11.0,,,,,,1,11.0
+397,Tangle Wire,,,,,,5.0,,1,5.0
+82,Tarmogoyf,18.0,,,,,,,1,18.0
+286,Temple of the False God,,,,,71.0,,,1,71.0
+279,Terramorphic Expanse,,,,,90.0,,,1,90.0
+205,The Reality Chip,,,8.0,,,,,1,8.0
+18,The Tabernacle at Pendrell Vale,82.0,,,,,,,1,82.0
+467,Thermo-Alchemist,,,,,,,18.0,1,18.0
+144,Thespian's Stage,,19.0,,,,,,1,19.0
+75,Thorn of Amethyst,25.0,,,,,,,1,25.0
+412,Thorn of the Black Rose,,,,,,,83.0,1,83.0
+288,Thought Vessel,,,,,67.0,,,1,67.0
+441,Thoughtcast,,,,,,,47.0,1,47.0
+428,Thraben Inspector,,,,,,,61.0,1,61.0
+299,Three Visits,,,,,33.0,,,1,33.0
+48,Time Vault,52.0,,,,,,,1,52.0
+10,Time Walk,90.0,,,,,,,1,90.0
+40,Tinker,60.0,,,,,,,1,60.0
+36,Tolarian Academy,64.0,,,,,,,1,64.0
+194,"Tourach, Dread Cantor",,,25.0,,,,,1,25.0
+263,Tovolar's Huntmaster,,,,12.0,,,,1,12.0
+317,Toxic Deluge,,,,,9.0,,,1,9.0
+71,Trinisphere,29.0,,,,,,,1,29.0
+341,Uktabi Orangutan,,,,,,69.0,,1,69.0
+150,Umezawa's Jitte,,12.0,,,,,,1,12.0
+388,Underground River,,,,,,14.0,,1,14.0
+372,Undiscovered Paradise,,,,,,32.0,,1,32.0
+446,Unexpected Fangs,,,,,,,42.0,1,42.0
+162,Unholy Heat,,,86.0,,,,,1,86.0
+112,"Uro, Titan of Nature's Wrath",,57.0,,,,,,1,57.0
+322,Vandalblast,,,,,1.0,,,1,1.0
+447,Vault of Whispers,,,,,,,41.0,1,41.0
+401,Vendetta,,,,,,1.0,,1,1.0
+187,Void Mirror,,,37.0,,,,,1,37.0
+480,Volatile Fjord,,,,,,,5.0,1,5.0
+466,Voldaren Epicure,,,,,,,20.0,1,20.0
+361,Wall of Blossoms,,,,,,45.0,,1,45.0
+384,Wall of Roots,,,,,,18.0,,1,18.0
+297,Wayfarer's Bauble,,,,,44.0,,,1,44.0
+410,Weather the Storm,,,,,,,85.0,1,85.0
+271,Wild Slash,,,,1.0,,,,1,1.0
+313,Windfall,,,,,16.0,,,1,16.0
+350,Winter Orb,,,,,,58.0,,1,58.0
+348,Withered Wretch,,,,,,61.0,,1,61.0
+396,Wonder,,,,,,6.0,,1,6.0
+336,Wrath of God,,,,,,76.0,,1,76.0
+174,Wrenn and Six,,,57.0,,,,,1,57.0
+340,Yavimaya Coast,,,,,,70.0,,1,70.0
+83,Yawgmoth's Will,17.0,,,,,,,1,17.0
+265,"Yorion, Sky Nomad",,,,10.0,,,,1,10.0
