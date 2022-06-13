@@ -2,6 +2,8 @@ from urllib.request import Request, urlopen
 from functools import reduce
 import pandas as pd
 import bs4
+import json
+import sys
 
 
 # Given a format, return a DataFrame containing the card names
@@ -47,8 +49,27 @@ def run():
     df_merged['Total'] = df_total
 
     # Add pricing information
-    # TODO: add min price
-    print(df_merged['Name'].tolist())
+    if len(sys.argv) == 2:
+        filename = sys.argv[1]
+        f = open(filename)
+        cards = json.load(f)
+        card_names = df_merged['Name'].tolist()
+        priced_cards = list(filter(lambda card: card['name'] in card_names, cards))  # TODO: fix double-sided cards
+        df_priced_cards = pd.DataFrame(priced_cards)
+
+        # Adjust columns, compute Price
+        df_priced_cards.rename(columns={'name': 'Name', 'prices': 'Price'}, inplace=True)
+        df_priced_cards = df_priced_cards[['Name', 'Price']]
+        df_priced_cards['Price'] = df_priced_cards['Price'].apply(lambda x: x['usd']).astype(float)
+        df_priced_cards = df_priced_cards.sort_values(['Name', 'Price']).drop_duplicates(subset=['Name'], keep='first')
+        df_merged = pd.merge(df_merged, df_priced_cards, on='Name', how='left')
+
+        # Construct a 'Value'
+        # TODO: construct a better value
+        value = (df_merged['Price'] / df_merged['Total'])
+        df_merged['Value'] = value
+        # max_value = value.max()
+        # df_merged['Value'] = [1] - ((value / [max_value]) / df_merged['Count'])
 
     # Export to CSV
-    df_merged.sort_values(by=['Count', 'Name'], ascending=[False, True]).to_csv('mtg.csv')
+    df_merged.sort_values(by=['Count', 'Value'], ascending=[False, True]).to_csv('mtg.csv')
